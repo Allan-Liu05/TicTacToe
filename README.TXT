@@ -1,12 +1,7 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
+PROJECT TITLE: TicTacToe
+PURPOSE OF PROJECT: A tictactoe clone programmed in java without the use of classes. It is possible to play: 1v1 and 1vComputer.
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Steps to play for yourself (for macos):
+1. Clone this repository onto your machine.
+2. Run "java TicTacToe_V3"
+3. Follow instructions and enjoy!
